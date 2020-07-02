@@ -6,7 +6,7 @@ The code is written by [binh.tran](mailto:binh.tran@ecs.vuw.ac.nz) who is the au
 
 You can refer to the Chinese version on [OmegaXYZ-VLPSO](https://www.omegaxyz.com/2018/09/16/vlpso/).
 
-# Parameter
+## Parameter
 VLPSO needs 5 command line arguments, e.g., Data/SRBCT_GEMS 1 12 9 100
 - 0: dataset path: eg. Data/SRBCT_GEMS which has the data file named "data.arff"
 - 1: PSO run seed: 1
@@ -14,9 +14,7 @@ VLPSO needs 5 command line arguments, e.g., Data/SRBCT_GEMS 1 12 9 100
 - 3: Nbr of iterations gbest unchanged to apply length changing: 9
 - 4: Nbr of max iterations to stop: 100
 
-# Dataset
+## Dataset
 https://github.com/xyjigsaw/Dataset
 
 If your rights are violated potentially, Please contact [Reacubeth](mailto:noverfitting@gmail.com).
-
-
